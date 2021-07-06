@@ -1,3 +1,6 @@
+" vim-plug required!
+" installation: curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
 set nocompatible
 syntax on
 filetype plugin indent on
